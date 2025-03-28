@@ -1,0 +1,32 @@
+/* 
+nav {
+    color: orange !important;
+}
+
+.navbar-brand {
+    color: orange !important;
+}
+
+.bg-dark {
+    background-color: darkblue !important;
+}
+
+.btn-primary {
+    background-color: orange !important;
+    border-color: darkblue !important;
+    color: darkblue !important;
+}
+
+.btn-primary:hover {
+    background-color: darkblue !important;
+    border-color: orange !important;
+    color: orange !important;
+} */
+
+
+div.card:hover{
+
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+
+
+}
